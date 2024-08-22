@@ -12,6 +12,11 @@ This mod was created to help players in the process of making / adapting liverie
 - Paste Liveries
 - Move all layers
 
+## Known Issues :
+
+- you can't copy / paste directly a livery from a car to the same car
+untill i fix it just paste it on another car and re copy / paste it on the original car
+
 ## NOTE :
 
 this is still a v1 so there will be more options added in the futur ^^
