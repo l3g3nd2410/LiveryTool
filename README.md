@@ -1,4 +1,4 @@
-# Livery Tool | 1.0.0
+# Livery Tool | 1.0.1
 
 ![LiveryTool](https://github.com/user-attachments/assets/f6402b2e-7fd8-4edf-93fc-ef2a7606586a)
 
@@ -11,12 +11,6 @@ This mod was created to help players in the process of making / adapting liverie
 - Copy Liveries
 - Paste Liveries
 - Move all layers
-
-## Known Issues :
-
-- you can't copy / paste directly a livery from a car to the same car
-
-untill i fix it just paste it on another car and re copy / paste it on the original car
 
 ## NOTE :
 
