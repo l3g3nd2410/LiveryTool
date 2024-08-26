@@ -31,3 +31,11 @@ opening KSL's menu > Mod DB > LiveryTool
 ## Support :
 
 For support, send a message to l3g3nd_2410 on discord.
+
+## Pics of the mod :
+![Capture d'écran 2024-08-23 195213](https://github.com/user-attachments/assets/df76557c-6f89-45dc-ac95-690f3640aad7)
+
+![Capture d'écran 2024-08-23 195240](https://github.com/user-attachments/assets/43543671-5bae-4ea0-b7ed-d9deaf4b9cdc)
+
+![Capture d'écran 2024-08-23 195228](https://github.com/user-attachments/assets/bba01aa3-ad01-4b0d-95f2-328d83093bd9)
+
