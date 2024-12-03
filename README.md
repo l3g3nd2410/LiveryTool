@@ -5,6 +5,7 @@
 ## Description :
 
 This mod was created to help players in the process of making / adapting liveries.
+
 Made for **2.3.0** game version or **higher**.
 
 ## Features :
