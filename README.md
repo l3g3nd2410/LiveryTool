@@ -1,20 +1,31 @@
-# Livery Tool | 1.0.1
+# Livery Tool | 1.0.2
 
 ![LiveryTool](https://github.com/user-attachments/assets/f6402b2e-7fd8-4edf-93fc-ef2a7606586a)
 
 ## Description :
 
 This mod was created to help players in the process of making / adapting liveries.
+Made for **2.3.0** game version or **higher**.
 
 ## Features :
 
-- Copy Liveries
-- Paste Liveries
-- Move all layers
+**Main options**
+- Select a layer group (all layers or a range of layers)
+- Copy / Paste a layer group
+- Move a layer group
+- Rotate a layer group
+- Resize a layer group
+- Change the color of a layer group
+- Change the color of the layers with a specific color
 
+**Other options**
+- Duplicate
+- Symmetry
+- Delete layer group
+	
 ## NOTE :
 
-this is still a v1 so there will be more options added in the futur ^^
+If you have some suggestion for the mod just let me know 
 
 ## INSTALL :
 
@@ -30,12 +41,13 @@ opening KSL's menu > Mod DB > LiveryTool
 
 ## Support :
 
-For support, send a message to l3g3nd_2410 on discord.
+For support, send me a private message on discord : l3g3nd_2410.
 
 ## Pics of the mod :
-![Capture d'écran 2024-08-23 195213](https://github.com/user-attachments/assets/df76557c-6f89-45dc-ac95-690f3640aad7)
+![Capture d'écran 2024-12-03 220338](https://github.com/user-attachments/assets/d6044bf3-58b9-4ca3-b049-d879b2a49173)
 
-![Capture d'écran 2024-08-23 195240](https://github.com/user-attachments/assets/43543671-5bae-4ea0-b7ed-d9deaf4b9cdc)
+![Capture d'écran 2024-12-03 220205](https://github.com/user-attachments/assets/c5d32af8-46ba-4ba6-a4d9-06b9200222a6)
 
-![Capture d'écran 2024-08-23 195228](https://github.com/user-attachments/assets/bba01aa3-ad01-4b0d-95f2-328d83093bd9)
+![Capture d'écran 2024-12-03 220320](https://github.com/user-attachments/assets/975c18a8-7a22-4ee6-8aa3-9cda038be74e)
 
+![Capture d'écran 2024-12-03 220307](https://github.com/user-attachments/assets/c7707914-699c-41bb-9403-7f7270661c51)
