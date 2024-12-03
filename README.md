@@ -12,11 +12,11 @@ Made for **2.3.0** game version or **higher**.
 
 **Main options**
 - Select a layer group (all layers or a range of layers)
-- Copy / Paste a layer group
-- Move a layer group
-- Rotate a layer group
-- Resize a layer group
-- Change the color of a layer group
+- Copy / Paste the layer group
+- Move the layer group
+- Rotate the layer group
+- Resize the layer group
+- Change the color of the layer group
 - Change the color of the layers with a specific color
 
 **Other options**
