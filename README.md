@@ -12,7 +12,7 @@ Made for **2.3.0** game version or **higher**.
 
 **Main options**
 - Select a layer group (all layers or a range of layers)
-- Jump to layer
+- Jump to a specific layer
 - Copy / Paste the layer group
 - Move the layer group
 - Rotate the layer group
