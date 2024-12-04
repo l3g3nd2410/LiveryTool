@@ -48,7 +48,7 @@ For support, send me a private message on discord : l3g3nd_2410.
 ## Pics of the mod :
 ![Capture d'écran 2024-12-03 220338](https://github.com/user-attachments/assets/d6044bf3-58b9-4ca3-b049-d879b2a49173)
 
-![Capture d'écran 2024-12-03 220205](https://github.com/user-attachments/assets/c5d32af8-46ba-4ba6-a4d9-06b9200222a6)
+![image](https://github.com/user-attachments/assets/459b6932-9258-49bf-a8b1-2051ec6ba0a9)
 
 ![Capture d'écran 2024-12-03 220320](https://github.com/user-attachments/assets/975c18a8-7a22-4ee6-8aa3-9cda038be74e)
 
