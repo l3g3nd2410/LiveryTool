@@ -1,4 +1,4 @@
-# Livery Tool | 1.0.3
+# Livery Tool | 1.0.4
 
 ![LiveryTool](https://github.com/user-attachments/assets/f6402b2e-7fd8-4edf-93fc-ef2a7606586a)
 
